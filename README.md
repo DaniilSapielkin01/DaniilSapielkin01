@@ -1,12 +1,4 @@
 <div align="center">
-  <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0010,70:150025,100:000000&height=230&section=header&text=DANIIL%20SAPIELKIN&fontSize=50&fontColor=ffd700&fontAlignY=40&desc=Frontend%20Developer%20%2F%2F%20Web3%20Engineer%20%2F%2F%205%2B%20yrs&descAlignY=63&descSize=15&descFontColor=a855f7&animation=fadeIn)
-
-![matrix](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=ffd700&center=true&vCenter=false&multiline=true&repeat=false&width=700&height=28&lines=%E2%96%88%E2%96%91%E2%96%92%E2%96%93+%5B+SYSTEM+ONLINE+%5D+%E2%96%93%E2%96%92%E2%96%91%E2%96%88+%2F%2F+Web3+%2F%2F+Blockchain+%2F%2F+Frontend+%2F%2F+%E2%96%88%E2%96%91%E2%96%92%E2%96%93+%5B+READY+%5D+%E2%96%93%E2%96%92%E2%96%91%E2%96%88)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1500&color=a855f7&center=true&vCenter=true&width=620&height=40&lines=⛓+Building+production+blockchain+products;🏗+Feature-Sliced+Design+%7C+Scalable+Architecture;🔐+Smart+Contracts+%7C+Wallet+Integration+%7C+DeFi)](https://git.io/typing-svg)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/■_LinkedIn-0a0010?style=for-the-badge&logo=linkedin&logoColor=ffd700)](https://www.linkedin.com/in/daniil-sapielkin/)
