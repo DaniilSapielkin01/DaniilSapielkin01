@@ -78,12 +78,6 @@
 
 </div>
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DaniilSapielkin01&bg_color=0d0221&color=00fff9&line=a78bfa&point=ff2d78&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ---
 
 <div align="center">
