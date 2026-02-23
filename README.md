@@ -1,94 +1,147 @@
 <div align="center">
 
-# Hey, I'm Daniil 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:ff2d78,100:39ff14&height=200&section=header&text=Daniil%20Sapielkin&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=Frontend%20Developer%20%E2%80%A2%20Web3%20Specialist%20%E2%80%A2%205%2B%20Years&descAlignY=60&descSize=16&animation=fadeIn)
 
-**Frontend Developer · Web3 Specialist · 5+ Years Experience**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+blockchain+products+%F0%9F%94%97;Designing+scalable+frontends+%F0%9F%8F%97%EF%B8%8F;Shipping+production-ready+code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sapielkin.daniil@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sapielkin.daniil@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
 </div>
 
 ---
 
-## 💻 About Me
+<img align="right" width="300" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
-Frontend Developer with **5+ years** of experience building Web3 and product-oriented applications.
+## 👾 About Me
 
-- 🔗 Specializing in **blockchain integrations**, **smart contract interaction**, and **DeFi UIs**
-- 🏗️ Strong background in designing **scalable frontend architectures** (Feature-Sliced Design)
-- 📦 Built and published **production-ready NPM libraries** used across projects
-- 🤝 Experienced working directly with clients, mentoring team members, and leading technical planning
-- 🌍 English — Upper-Intermediate
+```ts
+const daniil = {
+  role: "Frontend Developer",
+  experience: "5+ years",
+  focus: ["Web3", "DeFi", "Scalable UI"],
+  blockchain: ["ETH", "Solana", "EVM chains"],
+  architect: "Feature-Sliced Design",
+  packages: 3, // published NPM libs
+  english: "Upper-Intermediate",
+  status: "Open to work 🟢"
+}
+```
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-**Web3**
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![wagmi](https://img.shields.io/badge/wagmi-1C1C1C?style=flat-square)
-![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=flat-square)
-![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
-
-**UI & Styling**
-
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
-
-**Tools & Principles**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-444?style=flat-square)
-![SOLID](https://img.shields.io/badge/SOLID-444?style=flat-square)
-![Agile/Scrum](https://img.shields.io/badge/Agile_Scrum-00A86B?style=flat-square)
+<br clear="right"/>
 
 ---
 
-## 🚀 Highlights
-
-- 🔐 Contributed to **WalletConnect** core — integrated Solana support & published a Sign-In With Solana (SIWS) npm package
-- 🏦 Built **SafeLite** — a decentralized asset management system (like Safe{Wallet}) in Next.js with direct smart contract interaction
-- 🧩 Designed a **cross-platform Web3 auth NPM library** (React, Angular, Vue, vanilla JS) from scratch
-- 📱 Developed a **Telegram Mini App** for a blockchain product with a parallel web app
-- 📊 Built CRM systems for **credit card management** and **warehouse operations**
-
----
-
-## 📈 GitHub Stats
+## ⚡ Tech Stack
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+### 🔷 Core
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🔗 Web3
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+
+### 🎨 UI / Tooling
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
+## 🏆 Key Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 WalletConnect Core
+**Boosty Labs · 2024–2025**
+
+Integrated **Solana** into WalletConnect's core frontend. Published a production-ready **Sign-In With Solana (SIWS)** npm package used in real Web3 auth flows.
+
+`wagmi` `viem` `ethers.js` `Solana`
+
+</td>
+<td width="50%">
+
+### 🏦 SafeLite
+**Boosty Labs · 2024–2025**
+
+Decentralized asset manager (like Safe{Wallet}) — **no backend**, direct smart contract interaction. Full ERC20 flow with multi-env testing.
+
+`Next.js` `ERC20` `Smart Contracts`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📦 Web3 Auth NPM Library
+**CODY · 2023**
+
+Cross-platform auth library built from scratch supporting **React, Angular, Vue & Vanilla JS**. Multi-wallet architecture, token exchange, semantic versioning & public docs.
+
+`TypeScript` `NPM` `WalletConnect` `MetaMask`
+
+</td>
+<td width="50%">
+
+### 📱 Telegram Mini App
+**TheOne · 2025**
+
+Full-featured blockchain Mini App for Telegram + mirrored web app. Designed **FSD architecture**, domain hooks, and reusable UI system from ground up.
+
+`React` `TMA` `FSD` `TypeScript`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-*Open to interesting Web3 & frontend opportunities* 🚀
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff2d78&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f5ff&ring=ff2d78&fire=ff6b00&currStreakLabel=00f5ff)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+## 🏅 Soft Skills
+
+<div align="center">
+
+![Mentor](https://img.shields.io/badge/Mentored_Team_Members-00f5ff?style=flat-square&logoColor=white)
+![Architect](https://img.shields.io/badge/Designed_Scalable_Architecture-ff2d78?style=flat-square)
+![Client](https://img.shields.io/badge/Worked_With_Clients_Directly-39ff14?style=flat-square&logoColor=black)
+![Agile](https://img.shields.io/badge/Agile_%2F_Scrum_%2F_Kanban-ff6b00?style=flat-square)
+![Estimation](https://img.shields.io/badge/Project_Estimation-a855f7?style=flat-square)
+
+</div>
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,50:00f5ff,100:ff2d78&height=120&section=footer)
