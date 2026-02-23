@@ -15,6 +15,21 @@
 
 </div>
 
+### About Me
+
+<img align="right" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="340"/>
+
+🔗 **Frontend Developer** · **5+ years** in Web3 & blockchain
+🏗 Scalable architecture via **Feature-Sliced Design**
+⛓ Production-ready apps on **ETH · Solana · EVM**
+🔐 Smart contract interaction · Wallet integration · DeFi
+📦 Participated in building **npm packages** for Web3 auth & wallets
+🌐 **WebSocket** · REST APIs · Real-time systems
+🇬🇧 English — **Upper-Intermediate**
+🟢 **Open to work**
+
+<br clear="right"/>
+
 ---
 
 ### TECH_STACK
