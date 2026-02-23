@@ -72,17 +72,8 @@
 
 </div>
 
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DaniilSapielkin01&hide_border=true&background=0d0221&stroke=00fff9&ring=ff2d78&fire=ff6b00&currStreakLabel=00fff9&sideLabels=a78bfa&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DaniilSapielkin01&bg_color=0d0221&color=00fff9&line=a78bfa&point=ff2d78&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
