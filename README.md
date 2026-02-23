@@ -19,19 +19,17 @@
 
 ## 👾 About Me
 
-```ts
-const daniil = {
-  role:       "Frontend Developer",
-  experience: "5+ years",
-  focus:      ["Web3", "DeFi", "Scalable UI"],
-  blockchain: ["ETH", "Solana", "EVM chains"],
-  arch:       "Feature-Sliced Design (FSD)",
-  npmLibs:    3, // published & production-ready
-  realtime:   ["WebSocket", "REST APIs"],
-  english:    "Upper-Intermediate",
-  status:     "Open to work 🟢",
-}
-```
+| | |
+|---|---|
+| 💼 **Role** | Frontend Developer |
+| ⏳ **Experience** | 5+ years |
+| 🔗 **Focus** | Web3 · DeFi · Scalable UI |
+| ⛓ **Blockchain** | ETH · Solana · EVM chains |
+| 🏗 **Architecture** | Feature-Sliced Design (FSD) |
+| 📦 **NPM Libraries** | 3 published & production-ready |
+| 🌐 **Real-time** | WebSocket · REST APIs |
+| 🇬🇧 **English** | Upper-Intermediate |
+| 🟢 **Status** | Open to work |
 
 <br clear="right"/>
 
