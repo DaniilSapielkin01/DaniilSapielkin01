@@ -67,6 +67,20 @@
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaniilSapielkin01&theme=github_dark)](https://github.com/DaniilSapielkin01)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaniilSapielkin01&theme=github_dark)](https://github.com/DaniilSapielkin01)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaniilSapielkin01&theme=github_dark)](https://github.com/DaniilSapielkin01)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaniilSapielkin01&theme=github_dark&utcOffset=2)](https://github.com/DaniilSapielkin01)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DaniilSapielkin01&hide_border=true&background=0d0221&stroke=00fff9&ring=ff2d78&fire=ff6b00&currStreakLabel=00fff9&sideLabels=a78bfa&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DaniilSapielkin01&bg_color=0d0221&color=00fff9&line=a78bfa&point=ff2d78&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -74,6 +88,6 @@
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/DaniilSapielkin01/DaniilSapielkin01/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
