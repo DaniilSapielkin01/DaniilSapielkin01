@@ -65,15 +65,10 @@
 
 <div align="center">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaniilSapielkin01&theme=github_dark)](https://github.com/DaniilSapielkin01)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaniilSapielkin01&theme=github_dark)](https://github.com/DaniilSapielkin01)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaniilSapielkin01&theme=github_dark)](https://github.com/DaniilSapielkin01)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaniilSapielkin01&theme=github_dark&utcOffset=2)](https://github.com/DaniilSapielkin01)
 
 </div>
-
-
-
 
 ---
 
