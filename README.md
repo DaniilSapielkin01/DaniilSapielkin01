@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1500&color=ffffff&center=true&vCenter=true&width=620&height=40&lines=⛓+Building+production+blockchain+products;🏗+Feature-Sliced+Design+%7C+Scalable+Architecture;🔐+Smart+Contracts+%7C+Wallet+Integration+%7C+DeFi)](https://git.io/typing-svg)
 
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/daniil-sapielkin/)
 [![Email](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:sapielkin.daniil@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=ffffff)](https://medium.com/@qwe1rtyy)
