@@ -17,45 +17,45 @@
 
 ---
 
-### `> TECH_STACK.exe`
+### TECH_STACK
 
-**// Languages & Core Frontend**
+**Languages & Core Frontend**
 
 <img src="https://img.shields.io/badge/TypeScript-0d0221?style=flat-square&logo=typescript&logoColor=00fff9" /> <img src="https://img.shields.io/badge/JavaScript_ES5%2FES6+-0d0221?style=flat-square&logo=javascript&logoColor=f7df1e" /> <img src="https://img.shields.io/badge/React_(Hooks%2C_Class)-0d0221?style=flat-square&logo=react&logoColor=61dafb" /> <img src="https://img.shields.io/badge/Next.js-0d0221?style=flat-square&logo=nextdotjs&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Redux_(Thunk%2FSaga)-0d0221?style=flat-square&logo=redux&logoColor=764abc" /> <img src="https://img.shields.io/badge/Zustand-0d0221?style=flat-square&logoColor=00fff9" /> <img src="https://img.shields.io/badge/GraphQL-0d0221?style=flat-square&logo=graphql&logoColor=e10098" /> <img src="https://img.shields.io/badge/zod-0d0221?style=flat-square&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/react--hook--form-0d0221?style=flat-square&logo=reacthookform&logoColor=ff2d78" /> <img src="https://img.shields.io/badge/Telegram_Mini_Apps-0d0221?style=flat-square&logo=telegram&logoColor=00fff9" /> <img src="https://img.shields.io/badge/Lighthouse-0d0221?style=flat-square&logo=googlechrome&logoColor=ff6b00" />
 
 <br/>
 
-**// Web3 & Blockchain**
+**Web3 & Blockchain**
 
 <img src="https://img.shields.io/badge/wagmi-0d0221?style=flat-square&logo=ethereum&logoColor=00fff9" /> <img src="https://img.shields.io/badge/viem-0d0221?style=flat-square&logo=ethereum&logoColor=00fff9" /> <img src="https://img.shields.io/badge/ethers.js-0d0221?style=flat-square&logo=ethereum&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/web3.js-0d0221?style=flat-square&logo=web3dotjs&logoColor=f16822" /> <img src="https://img.shields.io/badge/WalletConnect-0d0221?style=flat-square&logo=walletconnect&logoColor=00fff9" /> <img src="https://img.shields.io/badge/MetaMask_SDK-0d0221?style=flat-square&logo=metamask&logoColor=ff6b00" /> <img src="https://img.shields.io/badge/web3Modal-0d0221?style=flat-square&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Wallet_Integration-0d0221?style=flat-square&logoColor=ff2d78" /> <img src="https://img.shields.io/badge/Smart_Contracts-0d0221?style=flat-square&logo=solidity&logoColor=ff2d78" /> <img src="https://img.shields.io/badge/Solidity_(review)-0d0221?style=flat-square&logo=solidity&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Big.js-0d0221?style=flat-square&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/ERC20_Flows-0d0221?style=flat-square&logoColor=00fff9" /> <img src="https://img.shields.io/badge/Cross--chain-0d0221?style=flat-square&logoColor=00fff9" />
 
 <br/>
 
-**// UI & Styling**
+**UI & Styling**
 
 <img src="https://img.shields.io/badge/SCSS%2FSASS-0d0221?style=flat-square&logo=sass&logoColor=cc6699" /> <img src="https://img.shields.io/badge/CSS_Modules-0d0221?style=flat-square&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/styled--components-0d0221?style=flat-square&logo=styledcomponents&logoColor=db7093" /> <img src="https://img.shields.io/badge/styleX-0d0221?style=flat-square&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Material_UI-0d0221?style=flat-square&logo=mui&logoColor=007fff" /> <img src="https://img.shields.io/badge/Ant_Design-0d0221?style=flat-square&logo=antdesign&logoColor=0170fe" /> <img src="https://img.shields.io/badge/Radix_UI-0d0221?style=flat-square&logoColor=00fff9" /> <img src="https://img.shields.io/badge/Storybook-0d0221?style=flat-square&logo=storybook&logoColor=ff4785" /> <img src="https://img.shields.io/badge/Figma-0d0221?style=flat-square&logo=figma&logoColor=f24e1e" />
 
 <br/>
 
-**// Real-time & APIs**
+**Real-time & APIs**
 
 <img src="https://img.shields.io/badge/WebSocket-0d0221?style=flat-square&logoColor=00fff9" /> <img src="https://img.shields.io/badge/REST_APIs-0d0221?style=flat-square&logoColor=00fff9" /> <img src="https://img.shields.io/badge/Postman-0d0221?style=flat-square&logo=postman&logoColor=ff6b00" />
 
 <br/>
 
-**// Architecture & Principles**
+**Architecture & Principles**
 
 <img src="https://img.shields.io/badge/Feature--Sliced_Design-0d0221?style=flat-square&logoColor=00fff9" /> <img src="https://img.shields.io/badge/OOP-0d0221?style=flat-square&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/SOLID-0d0221?style=flat-square&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/DRY-0d0221?style=flat-square&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/KISS-0d0221?style=flat-square&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Agile_Scrum_Kanban-0d0221?style=flat-square&logoColor=ff2d78" />
 
 <br/>
 
-**// Tools**
+**Tools**
 
 <img src="https://img.shields.io/badge/Git-0d0221?style=flat-square&logo=git&logoColor=f05032" /> <img src="https://img.shields.io/badge/VSCode-0d0221?style=flat-square&logo=visualstudiocode&logoColor=007acc" /> <img src="https://img.shields.io/badge/npm-0d0221?style=flat-square&logo=npm&logoColor=cc0000" /> <img src="https://img.shields.io/badge/Node.js-0d0221?style=flat-square&logo=nodedotjs&logoColor=339933" />
 
 ---
 
-### `> GITHUB_STATS.exe`
+### GITHUB_STATS
 
 <div align="center">
 
@@ -75,6 +75,12 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DaniilSapielkin01&hide_border=true&background=0d0221&stroke=00fff9&ring=ff2d78&fire=ff6b00&currStreakLabel=00fff9&sideLabels=a78bfa&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DaniilSapielkin01&bg_color=0d0221&color=00fff9&line=a78bfa&point=ff2d78&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
