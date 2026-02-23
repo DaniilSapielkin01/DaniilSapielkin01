@@ -1,4 +1,12 @@
 <div align="center">
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/■_LinkedIn-0a0010?style=for-the-badge&logo=linkedin&logoColor=ffd700)](https://www.linkedin.com/in/daniil-sapielkin/)
+[![Email](https://img.shields.io/badge/■_Email-0a0010?style=for-the-badge&logo=gmail&logoColor=a855f7)](mailto:sapielkin.daniil@gmail.com)
+[![Medium](https://img.shields.io/badge/■_Medium-0a0010?style=for-the-badge&logo=medium&logoColor=ffd700)](https://medium.com/@qwe1rtyy)
+[![GitHub](https://img.shields.io/badge/■_GitHub-0a0010?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/DaniilSapielkin01)
+
+</div>
 
 <br/>
 
