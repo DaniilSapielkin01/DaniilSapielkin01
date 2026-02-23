@@ -59,8 +59,16 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=DaniilSapielkin01&show_icons=true&hide_border=true&bg_color=0d0221&title_color=00fff9&icon_color=a78bfa&text_color=c9d1d9&count_private=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilSapielkin01&layout=compact&hide_border=true&bg_color=0d0221&title_color=00fff9&text_color=c9d1d9"/>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniilSapielkin01&theme=github_dark)](https://github.com/DaniilSapielkin01)
+
+</div>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaniilSapielkin01&theme=github_dark)](https://github.com/DaniilSapielkin01)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaniilSapielkin01&theme=github_dark)](https://github.com/DaniilSapielkin01)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaniilSapielkin01&theme=github_dark)](https://github.com/DaniilSapielkin01)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaniilSapielkin01&theme=github_dark&utcOffset=2)](https://github.com/DaniilSapielkin01)
 
 </div>
 
