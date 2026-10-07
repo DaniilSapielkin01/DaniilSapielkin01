@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/daniil-sapielkin/)
 [![Email](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:sapielkin.daniil@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=ffffff)](https://medium.com/@qwe1rtyy)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=ffffff)](https://medium.com/@sapielkin.daniil)
 
 </div>
 
